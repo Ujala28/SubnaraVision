@@ -9,7 +9,7 @@ public class SubnaraVisionApplication {
 	public static void main(String[] args) {
 
 		SpringApplication.run(SubnaraVisionApplication.class, args);
-		System.out.println("Subnara Vision");
+		System.out.println("Subnara Vision working");
 	}
 
 }
